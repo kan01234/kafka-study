@@ -22,4 +22,10 @@ read event from [wiki recent changes](https://stream.wikimedia.org/v2/stream/rec
 #### opensearch-consumer
 consumer event from wiki recent change topic and send to open search
 
-### common arhitecture
+
+### Arhitecture
+![basic arhitecture](./drawio/basic.svg)
+
+#### Video system
+![video system arhitecture](./drawio/video-system.svg)
+
