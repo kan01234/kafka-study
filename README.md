@@ -29,3 +29,11 @@ consumer event from wiki recent change topic and send to open search
 #### Video system
 ![video system arhitecture](./drawio/video-system.svg)
 
+#### taxi system
+![taxi system arhitecture](./drawio/taxi.svg)
+
+#### social media system
+![social media system arhitecture](./drawio/social-media.svg)
+
+#### big data system
+![big data system arhitecture](./drawio/big-data.svg)
