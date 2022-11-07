@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T08:38:20.856Z" agent="5.0 (Macintosh)" version="20.5.2" etag="h9B0LKkUKxj8IOznPMrt" type="github"><diagram id="cjEQYAq93zcs8aiY2xw5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-07T08:45:56.190Z" agent="5.0 (Macintosh)" etag="tM0ciz2crNch6yoFzB61" version="20.5.2" type="github">
+  <diagram id="cjEQYAq93zcs8aiY2xw5" name="第 1 页">
+    <mxGraphModel dx="1186" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-4" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDMnfFiah9xq6VYBhUG4-1" target="RDMnfFiah9xq6VYBhUG4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-1" value="&lt;div&gt;Source(DB, file system, event etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDMnfFiah9xq6VYBhUG4-3" target="RDMnfFiah9xq6VYBhUG4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-3" value="&lt;div&gt;Producer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDMnfFiah9xq6VYBhUG4-5" target="RDMnfFiah9xq6VYBhUG4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-5" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RDMnfFiah9xq6VYBhUG4-9" target="RDMnfFiah9xq6VYBhUG4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-9" value="topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMnfFiah9xq6VYBhUG4-11" value="Target (DB, file etc.)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
