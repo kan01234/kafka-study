@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T10:23:23.353Z" agent="5.0 (Macintosh)" etag="QdjQyxwNxLnqySh3i0rf" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T10:23:57.484Z" agent="5.0 (Macintosh)" etag="3Z80LDXIo7JaYq3DIz4N" version="20.5.2" type="github">
   <diagram id="PYTxX1DOv5nKaP08MeMF" name="Page-1">
     <mxGraphModel dx="1186" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="g4gQiA0uw7nGvO4-lKir-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g4gQiA0uw7nGvO4-lKir-22" target="g4gQiA0uw7nGvO4-lKir-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g4gQiA0uw7nGvO4-lKir-22" value="Video recommandation kafka stream" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g4gQiA0uw7nGvO4-lKir-22" value="video.recommandation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g4gQiA0uw7nGvO4-lKir-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="g4gQiA0uw7nGvO4-lKir-25" target="g4gQiA0uw7nGvO4-lKir-27" edge="1">
